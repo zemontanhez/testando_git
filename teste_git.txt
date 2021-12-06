@@ -1,2 +1,4 @@
 teste de envio ao git
 alteracao para terceiro commit
+
+alteração via github - teste de merge entre github e pastas locais
