@@ -2,3 +2,4 @@ teste de envio ao git
 alteracao para terceiro commit
 
 alteração via vscode - teste de merge entre github e pastas locais
+alteração via github - teste de merge entre github e pastas locais
